@@ -59,7 +59,7 @@ A cloud-based CMMS platform that helps businesses:
 
 ## 🤝 Let's Connect
 
-* 📧 [lapadata@buildwisecloud.com](mailto:lapadata@buildwisecloud.com)
+* 📧 [lapadat@buildwisecloud.com](mailto:lapadata@buildwisecloud.com)
 * 🌐 [www.buildwisecloud.com](http://www.buildwisecloud.com) *(coming soon)*
 
 ---
