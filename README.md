@@ -1,67 +1,74 @@
-# 👋 Hi, I'm Ioan Lapadat
+# 👋 Hi, I'm Ioan Lăpădat
 
-### Founder @ BuildWiseCloud  
+### 🚀 Founder @ BuildWiseCloud
+
 **From maintenance to SaaS**
 
-🚀 About Me
+---
 
-I come from a building maintenance and operations background, where I dealt with real-world challenges daily — inspections, repairs, asset tracking, and everything in between.
+## 🧠 About Me
 
-Now, I’m building BuildWiseCloud, a modern CMMS platform designed to simplify and improve how maintenance is managed.
+I come from a building maintenance and operations background, where I worked directly with real-world challenges — inspections, repairs, asset tracking, and daily operational workflows.
 
-This is not just another app.
-It’s a solution built from real experience.
+Now, I’m building **BuildWiseCloud**, a modern CMMS platform designed to simplify and transform maintenance management.
 
-🧠 What I'm Focused On
+> Not just software. A solution built from real experience.
 
-🏗️ Building BuildWiseCloud (CMMS SaaS)
+---
 
-⚙️ Turning operational workflows into digital systems
+## ⚡ What I'm Building
 
-📊 Simplifying maintenance, inspections & asset tracking
-
-🌐 Web apps (Firebase & modern stack)
-
-🛠️ Tech & Tools
-
-Firebase
-
-JavaScript / TypeScript
-
-React (in progress)
-
-Git & GitHub
-
-UI/UX thinking (real user first)
-
-🔥 Current Mission
-
-Turning maintenance into a smarter, simpler, and scalable process.
-
-📌 Featured Project
-🟦 BuildWiseCloud (Work in Progress)
+### 🟦 BuildWiseCloud (Work in Progress)
 
 A cloud-based CMMS platform that helps businesses:
 
-Manage assets
+* 🏗️ Manage assets & properties
+* 🔧 Track maintenance operations
+* 📋 Handle inspections & work orders
+* 📊 Improve operational control
 
-Track maintenance operations
+⚠️ Currently in development — shaped by real user needs.
 
-Handle inspections & work orders
+---
 
-Improve operational control
+## 🛠️ Tech Stack
 
-⚠️ Currently in development — built step by step based on real needs.
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+</p>
 
-🤝 Let's Connect
+---
 
-📧 lapadata@buildwisecloud.com
+## 📈 Current Focus
 
-🌐 www.buildwisecloud.com (coming soon)
+* Building a real SaaS product from scratch
+* Translating operational workflows into digital systems
+* Creating a simple, scalable CMMS experience
 
-⚡ Fun Fact
+---
 
-I’m not just building software —
-I’m building the tool I wish I had when working in maintenance.
+## 🎯 Mission
 
-⭐ If you're interested in CMMS, SaaS, or real-world problem solving — let's connect.
+> Turning maintenance into a smarter, simpler, and scalable process.
+
+---
+
+## 🤝 Let's Connect
+
+* 📧 [lapadata@buildwisecloud.com](mailto:lapadata@buildwisecloud.com)
+* 🌐 [www.buildwisecloud.com](http://www.buildwisecloud.com) *(coming soon)*
+
+---
+
+## ⚡ Fun Fact
+
+I’m not just building a product —
+I’m building the tool I wish I had in the field.
+
+---
+
+⭐ If you're into SaaS, CMMS, or real-world problem solving — let's connect.
